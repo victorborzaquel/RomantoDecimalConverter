@@ -2,7 +2,7 @@
 
 ## React Native App
 
-Conversor de numeral Romano e Decimal.  
+Conversor de números Romanos e Decimais.  
 
 <img src="./github/RomantoDecimalConverter.gif" width="400" />
 
